@@ -17,7 +17,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        echo "Welcome to Tarek Laravel";
+        echo "Welcome to our Site...";
     }
 
     /**
